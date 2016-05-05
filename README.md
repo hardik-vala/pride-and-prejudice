@@ -1,5 +1,5 @@
 # pride-and-prejudice
-Gold standard character mentions resolved to characters, for Pride and Prejudice.
+Gold standard, character-resolved mentions for Pride and Prejudice.
 
 * `orig.txt` contains the original story text (all labels and offsets are determined off this file).
 * `resolved.tsv` contains the gold, character-resolved mentions in Pride and Prejudice.
