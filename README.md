@@ -12,4 +12,6 @@ The columns of `resolved.tsv` are headed as follows:
 * `CHAPTER #` - The chapter number containing the given mention.
 * `PASSAGE #` - The passage number within the chapter containing the given mention (passages are contiguous blocks of text, approx. 250 words in size, that make up a chapter and are indexed starting from 0).
 
-TODO: Insert citation.
+Please source the following paper if you use this data in your own work:
+
+(TODO)
